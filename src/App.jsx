@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1 className='text-[50px] text-red-400 '>This Is A Calculator</h1>
+      <h1 className='text-[50px] text-red-400 '>This Is Not A Calculator</h1>
     </>
   )
 }
